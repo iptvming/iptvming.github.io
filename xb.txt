@@ -1,3 +1,4 @@
+粤语,http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
 华数_院线大片,http://hls-ott-zhibo.wasu.tv/live/357/index.m3u8
 华数_好莱坞大赏,http://hls-ott-zhibo.wasu.tv/live/351/index.m3u8
 华数_票房佳作,http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
