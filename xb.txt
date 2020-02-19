@@ -25,6 +25,7 @@
 复仇者联盟,http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
 美队和雷神,http://tx.hls.huya.com/huyalive/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1.m3u8
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+澳门莲花,http://live-rtmp.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 CIBN系列
 CIBN综合,http://cibn.peoplevideo.cn/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8?wsSecret=24dfaaac2d26b0cc0ff33bf8a5099384
 CIBN好莱坞,http://cibn.peoplevideo.cn/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
@@ -52,6 +53,21 @@ CIBN艺术院线,http://cinb1.peoplevideo.cn/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8
 CIBN健康,http://cibn.peoplevideo.cn/hls/vCIBNJKPD/1800/vCIBNJKPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
 CIBN风尚运动,http://cibn.peoplevideo.cn/hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8?wsSecret=5f38811d672214110f110816440adbdb
 CIBN真人秀,http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSecret=b58297c2170067d9164da6f2f86d3059
+CCTV1 高清,http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
+CCTV2 高清,http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
+CCTV3 高清,http://125.210.152.18:9090/live/CCTV3HD_H265.m3u8
+CCTV4 高清,http://121.31.30.91:8081/ysten-business/live/cctv-4/1.m3u8
+CCTV5 高清,http://125.210.152.18:9090/live/CCTV5HD_H265.m3u8
+CCTV6 高清,http://125.210.152.18:9090/live/CCTV6HD_H265.m3u8
+CCTV7 高清,http://125.210.152.18:9090/live/CCTV7HD_H265.m3u8
+CCTV8 高清,http://125.210.152.18:9090/live/CCTV8HD_H265.m3u8
+CCTV9 高清,http://125.210.152.18:9090/live/CCTVJLHD_H265.m3u8
+CCTV10 高清,http://125.210.152.18:9090/live/CCTV10HD_H265.m3u8
+CCTV11 高清,http://121.31.30.91:8081/ysten-business/live/cctv-11/1.m3u8
+CCTV12 高清,http://125.210.152.18:9090/live/CCTV12HD_H265.m3u8
+CCTV13 标清,http://125.210.152.18:9090/live/CCTV13_750.m3u8
+CCTV14 高清,http://125.210.152.18:9090/live/CCTV14HD_H265.m3u8
+CCTV15 高清,http://121.31.30.91:8081/ysten-business/live/cctv-15/1.m3u8
 有线新闻台,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
 有线新闻台,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
