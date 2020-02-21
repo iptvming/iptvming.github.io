@@ -1,5 +1,5 @@
 电影轮播
-香港有线新闻,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
+香港有线新闻,http://52ltw.xyz/wgat.php?id=31#https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 翡翠台,http://pull.scphsd.com/live/9c0b91bbcg39ea88dtcd8db78/playlist.m3u8
 无线新闻台,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1582206193~exp=1582292593~acl=/newslive/smil:mobile_inews.smil/*~hmac=9079142930d0454463de4ab12273e7fd1a7076ec124c87b177c634f8d8e9f51a
 粤语,http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
