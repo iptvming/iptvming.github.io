@@ -4,6 +4,7 @@
 无线新闻台,http://52ltw.xyz/wgat.php?id=9#http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1582206193~exp=1582292593~acl=/newslive/smil:mobile_inews.smil/*~hmac=9079142930d0454463de4ab12273e7fd1a7076ec124c87b177c634f8d8e9f51a##http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 无线J2台,http://52ltw.xyz/wgat.php?id=12
 星河频道,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
+粤语经典,http://aldirect.hls.huya.com/huyalive/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1_2500.m3u8
 粤语,http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
 周星驰电影,http://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 刘德华电影,http://tx.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_2000.m3u8
