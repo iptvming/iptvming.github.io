@@ -29,6 +29,38 @@
 吴京,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
 亮剑,https://js.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
 黄渤,https://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
+欢乐剧场,http://jvc.flashapp.cn/baiducdnct- gd.inter.ptqy.gitv.tv/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
+动作电 影,http://jcloudcdnct.inter.ptqy.gitv.tv/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodi anying_1080p_t10.m3u8
+贺岁影片,http://jvc.flashapp.cn/baiducdnct- gd.inter.ptqy.gitv.tv/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
+经典港 片,http://jcloudcdnct.inter.ptqy.gitv.tv/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdia nguangpian_1080p_t10.m3u8
+票房收割 机,http://jcloudcdnct.inter.ptqy.gitv.tv/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdi anying_1080p_t10.m3u8
+豆瓣高 分,http://jcloudcdnct.inter.ptqy.gitv.tv/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingying yuan_1080p_t10.m3u8
+午夜 场,http://jcloudcdnct.inter.ptqy.gitv.tv/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuy echang_1080p_t10.m3u8
+动画电 影,http://jcloudcdnct.inter.ptqy.gitv.tv/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadi anying_1080p_t10.m3u8
+秋意浓电影,http://jvc.flashapp.cn/baiducdnct- gd.inter.ptqy.gitv.tv/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
+温情影 院,http://jcloudcdnct.inter.ptqy.gitv.tv/tslive/c15_lb_chenglong_1080p_t10/c15_lb_chenglong_1080p _t10.m3u8
+虎牙动作电影,http://aldirect.hls.huya.com/backsrc/94525224-2460685722-10568564701724147712- 2789253838-10057-A-0-1_2500.m3u8
+速度与激情,http://aldirect.hls.huya.com/backsrc/29169025-2686219962-11537226886652362752- 2710080226-10057-A-0-1_2500.m3u8
+香港恐怖搞笑,http://aldirect.hls.huya.com/backsrc/30765679-2480413542-10653295043445522432- 3048959596-10057-A-0-1_2500.m3u8
+迪士尼电影,http://aldirect.hls.huya.com/huyalive/1448731701-1448731701-6222255276473450496- 2789274560-10057-A-0-1_2500.m3u8
+末日废土,http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328- 2847699120-10057-A-1524041208-1_2500.m3u8
+黑帮乱斗,http://txdirect.hls.huya.com/huyalive/30765679-2480288304-10652757150331305984- 2789274538-10057-A-0-1_2500.m3u8
+热血高校,http://aldirect.hls.huya.com/huyalive/1448686620-1448686620-6222061655052779520- 2789253878-10057-A-0-1_2500.m3u8
+赌片专场,http://aldirect.hls.huya.com/backsrc/29106097-2689446042-11551082794746642432- 2789253870-10057-A-0-1_2500.m3u8
+科幻动作大片,http://aldirect.hls.huya.com/backsrc/28466698-2689656864-11551988268341919744- 2847699194-10057-A-0-1_2500.m3u8
+未解之迷,http://aldirect.hls.huya.com/huyalive/28466698-2689662310-11552011658733813760- 3048959582-10057-A-1525512946-1_2500.m3u8
+漫威电影,http://aldirect.hls.huya.com/backsrc/30765679-2504742278-10757786168918540288- 3049003128-10057-A-0-1_2500.m3u8
+变型金刚,http://tx.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572- 10057-A-0-1_2500.m3u8
+泰国恐怖电影,http://aldirect.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352- 2777037828-10057-A-0-1_2500.m3u8
+科幻题材,http://txdirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048- 2789274548-10057-A-0-1_2500.m3u8
+战争电影,http://tx.hls.huya.com/huyalive/94525224-2579672162-11079607570191613952-2789274580- 10057-A-0-1_2500.m3u8
+灾难电影,http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304- 2847687506-10057-A-1525422901-1_2500.m3u8
+好莱坞动作大片,http://aldirect.hls.huya.com/backsrc/30765679-2484192572-10669525853706125312- 2847687498-10057-A-0-1_2500.m3u8
+黄渤电,http://aldirect.hls.huya.com/backsrc/30765679-2554414680-10971127511022305280-3048991634- 10057-A-0-1_2500.m3u8
+五福星系列,http://aldirect.hls.huya.com/backsrc/29169025-2686220040-11537227221659811840- 2713685416-10057-A-0-1_2500.m3u8
+沈腾,http://aldirect.hls.huya.com/backsrc/29141112-2689675756-11552069408864075776-3048959626- 10057-A-0-1_2500.m3u8
+王晶,http://aldirect.hls.huya.com/huyalive/1448686695-1448686695-6222061977175326720-2847687574- 10057-A-0-1_2500.m3u8
+指环王,http://aldirect.hls.huya.com/huyalive/29141112-2689675788-11552069546303029248-2847687634 -10057-A-0-1_2500.m3u8
 卧底警匪,http://tx.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1.m3u8
 复仇者联盟,http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
 美队和雷神,http://tx.hls.huya.com/huyalive/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1.m3u8
