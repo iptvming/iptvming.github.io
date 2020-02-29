@@ -68,7 +68,7 @@
 龙祥电影,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
 NET动作电影,http://121.31.30.90:8085/ysten-business/live/dongzuody/yst.m3u8
 周末影院,https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_2000.m3u8
-CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u80
+CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 澳门莲花,http://live-rtmp.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 CIBN系列
 CIBN综合,http://cibn.peoplevideo.cn/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8?wsSecret=24dfaaac2d26b0cc0ff33bf8a5099384
