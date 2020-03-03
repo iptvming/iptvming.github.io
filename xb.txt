@@ -13,6 +13,24 @@
 粤语经典,http://aldirect.rtmp.huya.com/huyalive/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8
 粤语电影,http://jcloudcdnct.inter.iqiyi.com/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
 粤语,http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
+美亚电影台 HD,p2p://lino.homeunix.com:6007/59fd08470008d4d60234d2d92e65644c.ts
+星卫电影台 HD,p2p://lino.homeunix.com:6007/59fd086a00072cbb02355b236c4a3fcb.ts
+东森电影 HD,p2p://lino.homeunix.com:6007/59fd0cab0008230a0245f94a229777bd.ts
+东森洋片 HD,p2p://lino.homeunix.com:6007/59fd17860002b83302705f6a03a560d2.ts
+卫视电影台 HD,p2p://lino.homeunix.com:6007/59fd0369000ea5750221d12f32a532b8.ts
+卫视合家欢 HD,p2p://lino.homeunix.com:6007/59fd14190000e1040262fd2560d91f69.ts
+纬来电影 HD,p2p://lino.homeunix.com:6007/59fd1feb0003d7be02912a31740004af.ts
+靖天电影台 HD,p2p://lino.homeunix.com:6007/59fd358c00069b9502e5a7d404d940d2.ts
+天映画 HD,p2p://lino.homeunix.com:6007/59fd3565000a788d02e5107642590dce.ts
+新力影业动作片,p2p://lino.homeunix.com:6007/59fd2573000c0b9e02a6c794631510c8.ts
+高清电影 HD,p2p://lino.homeunix.com:6007/59fd0b3f0002084d024069e339cc1997.ts
+好萊塢電影 HD,p2p://lino.homeunix.com:6007/5a141b66000b4be65f90135822b40e43.ts
+龙华影剧 HD,p2p://lino.homeunix.com:6007/59fd30d6000988d702d341a0202638f5.ts
+龙华电影,p2p://lino.homeunix.com:6007/5acb86bc0005dc212c1104ce762f31f7.ts
+龙华洋片 HD,p2p://lino.homeunix.com:6007/59fd07650001a79102315e34781149f3.ts
+恐怖电影,p2p://lino.homeunix.com:6007/5b3bbc4f000841ab41e487926cd85add.ts
+星影,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
+电影台,http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 周星驰电影,http://aldirect.rtmp.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 刘德华电影,http://aldirect.rtmp.huya.com/backsrc/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
 周润发电影,http://aldirect.rtmp.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
