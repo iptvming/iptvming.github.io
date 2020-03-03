@@ -7,13 +7,14 @@
 广东体育超清,rtsp://125.88.53.18/PLTV/88888905/224/3221227818/10000100000000060000000005076859_0.smil
 香港有线新闻,http://52ltw.xyz/wgat.php?id=31#https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 翡翠台,https://app.kds.tw/live/tvb1.php?id=jade&u=123456#http://52ltw.xyz/wgat.php?id=1#http://mrw.so/56rU4d?dsjtv
+TVB无线新闻台,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2#http://www.liveviptv.xyz/tv/tvb.php#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#vjms://23.237.33.155:8500:3502/live/cid=366
 无线新闻台,http://52ltw.xyz/wgat.php?id=9#http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_inews.smil/playlist.m3u8?hdnea=st=1582206193~exp=1582292593~acl=/newslive/smil:mobile_inews.smil/*~hmac=9079142930d0454463de4ab12273e7fd1a7076ec124c87b177c634f8d8e9f51a##http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 无线J2台,https://app.kds.tw/live/tvb1.php?id=j2&u=123456#http://52ltw.xyz/wgat.php?id=12
 星河频道,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 粤语经典,http://aldirect.rtmp.huya.com/huyalive/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8
 粤语电影,http://jcloudcdnct.inter.iqiyi.com/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
 粤语,http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
-美亚电影台 HD,p2p://lino.homeunix.com:6007/59fd08470008d4d60234d2d92e65644c.ts
+美亚电影,P2p://190.2.146.92:18912/5c724a0e000442831d58cdaa6a2c5c52.ts#mitv://198.255.74.87:9906/5dc08f100008811601b7ca2c2608b02d.tsp2p://lino.homeunix.com:6007/59fd08470008d4d60234d2d92e65644c.ts
 星卫电影台 HD,p2p://lino.homeunix.com:6007/59fd086a00072cbb02355b236c4a3fcb.ts
 东森电影 HD,p2p://lino.homeunix.com:6007/59fd0cab0008230a0245f94a229777bd.ts
 东森洋片 HD,p2p://lino.homeunix.com:6007/59fd17860002b83302705f6a03a560d2.ts
