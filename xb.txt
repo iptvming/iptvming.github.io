@@ -61,7 +61,7 @@ TVB无线新闻台,http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&
 贺岁影片,http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
 经典港片,http://jcloudcdnct.inter.ptqy.gitv.tv/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
 票房收割机,http://jcloudcdnct.inter.ptqy.gitv.tv/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8#http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
-豆瓣高分,http://jcloudcdnct.inter.ptqy.gitv.tv/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
+豆瓣高分,http://jcloudcdnct.inter.ptqy.gitv.tv/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8#http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
 午夜场,http://jcloudcdnct.inter.ptqy.gitv.tv/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuyechang_1080p_t10.m3u8
 动画电影,http://jcloudcdnct.inter.ptqy.gitv.tv/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
 秋意浓影,http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
