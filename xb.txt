@@ -1,7 +1,7 @@
 电影轮播
 VlU,http://154.209.74.42/hk/hkxg.php?id=8
-翡翠2,http://154.209.74.42/hk/hkxg.php?id=1
-无线新闻,http://154.209.74.42/hk/hkxg.php?id=9
+翡翠2,http://154.209.74.42/hk/hkxg8.php?id=1
+无线新闻,http://154.209.74.42/hk/hkxg8.php?id=9
 有线电影,http://154.209.74.42/hk/hkxg.php?id=31
 武功台,http://154.209.74.42/hk/hkxg.php?id=35
 星河,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=HIVAhJNAfFSVhIgCzHuKcHvKjRcATICUhKNHx5yNiIAalYBieKSKzCPgRJS%3Dy
