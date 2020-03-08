@@ -104,6 +104,9 @@ NET动作电影,http://121.31.30.90:8085/ysten-business/live/dongzuody/yst.m3u8
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 澳门莲花,http://live-rtmp.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 湖北影视,http://live.cjyun.org/hubeitv/s10008-live-hbys.m3u8
+华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NOW华剧台,https://vod.mudu.tv/watch/2020-03-06/awea6x_3652.m3u8
+NOW剧集台,https://vod.mudu.tv/watch/2020-03-06/mwnxw4_3510.m3u8
 CIBN系列
 CIBN综合,http://cibn.peoplevideo.cn/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8?wsSecret=24dfaaac2d26b0cc0ff33bf8a5099384
 CIBN好莱坞,http://cibn.peoplevideo.cn/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?wsSecret=771e13c21abf2b58b4c375b614f113f4
