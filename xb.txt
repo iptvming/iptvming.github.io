@@ -4,7 +4,7 @@ VlU,http://154.209.74.42/hk/hkxg8.php?id=8
 无线新闻,http://154.209.74.42/hk/hkxg8.php?id=9
 有线电影,http://154.209.74.42/hk/hkxg8.php?id=31
 武功台,http://154.209.74.42/hk/hkxg8.php?id=35
-星河,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=HIVAhJNAfFSVhIgCzHuKcHvKjRcATICUhKNHx5yNiIAalYBieKSKzCPgRJS%3Dy
+星河,http://154.209.74.42/hk/hkxg8.php?id=17
 粤语剧场,http://47.240.60.73/163cc.php?id=244746189
 广东体育2,rtsp://125.88.53.18/PLTV/88888905/224/3221226934/00000100000000060000000000554903_0.smil
 广东珠江,rtsp://125.88.53.18/PLTV/88888905/224/3221227004/00000100000000060000000000554900_0.smil
