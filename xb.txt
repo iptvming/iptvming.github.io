@@ -24,6 +24,7 @@ TVB无线新闻台,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
 粤语原声,http://tx2play1.douyucdn.cn/live/6566671r3jcXo8gN.flv
 粤语,http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8#http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
 粤语原生,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
+邵氏影院,http://tx2play1.douyucdn.cn/live/4246519rbNFUb1Pf.flv
 美亚电影,P2p://190.2.146.92:18912/5c724a0e000442831d58cdaa6a2c5c52.ts#mitv://198.255.74.87:9906/5dc08f100008811601b7ca2c2608b02d.tsp2p://lino.homeunix.com:6007/59fd08470008d4d60234d2d92e65644c.ts
 星卫电影台 HD,p2p://lino.homeunix.com:6007/59fd086a00072cbb02355b236c4a3fcb.ts
 东森电影 HD,p2p://lino.homeunix.com:6007/59fd0cab0008230a0245f94a229777bd.ts
