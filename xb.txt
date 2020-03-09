@@ -1,11 +1,14 @@
 电影轮播
 VlU,http://154.209.74.42/hk/hkxg8.php?id=8
+香港开电视,http://154.209.74.42/hk/hkxg8.php?id=7
 翡翠2,http://154.209.74.42/hk/hkxg8.php?id=1
 无线新闻,http://154.209.74.42/hk/hkxg8.php?id=9
 有线电影,http://154.209.74.42/hk/hkxg8.php?id=31
 武功台,http://154.209.74.42/hk/hkxg8.php?id=35
 星河,http://154.209.74.42/hk/hkxg8.php?id=17
 粤语剧场,http://47.240.60.73/163cc.php?id=244746189
+澳门卫视,http://154.209.74.42/hk/hkxg8.php?id=23
+澳亚卫视,http://154.209.74.42/hk/hkxg8.php?id=24
 广东体育2,rtsp://125.88.53.18/PLTV/88888905/224/3221226934/00000100000000060000000000554903_0.smil
 广东珠江,rtsp://125.88.53.18/PLTV/88888905/224/3221227004/00000100000000060000000000554900_0.smil
 广东卫视,rtsp://125.88.53.18/PLTV/88888905/224/3221226963/00000100000000060000000000554901_0.smil
@@ -106,7 +109,7 @@ TVB无线新闻台,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
 NET动作电影,http://121.31.30.90:8085/ysten-business/live/dongzuody/yst.m3u8
 周末影院,http://aldirect.rtmp.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_2000.m3u8
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
-澳门莲花,http://live-rtmp.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
+澳门莲花,http://live-rtmp.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8#http://154.209.74.42/hk/hkxg8.php?id=22
 湖北影视,http://live.cjyun.org/hubeitv/s10008-live-hbys.m3u8
 华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NOW华剧台,https://vod.mudu.tv/watch/2020-03-06/awea6x_3652.m3u8
