@@ -5,7 +5,7 @@ VlU,http://154.209.74.42/hk/hkxg8.php?id=8
 无线新闻,http://154.209.74.42/hk/hkxg8.php?id=9
 有线新闻Z,http://154.209.74.42/hk/hkxg8.php?id=31
 澳门新闻,http://202.175.127.77/live/show/ch2/index.m3u8
-武功台,http://play.ggiptv.com:13164/play.m3u8?token=lSv5Y4sNh4HTtHj0mpJKQ%2BBD&tid=gt&id=35#http://154.209.74.42/hk/hkxg8.php?id=35
+武功台,http://pull.scphsd.com/live/11e006e621278b229febef45dbecac3c/playlist.m3u8#http://play.ggiptv.com:13164/play.m3u8?token=lSv5Y4sNh4HTtHj0mpJKQ%2BBD&tid=gt&id=35#http://154.209.74.42/hk/hkxg8.php?id=35
 星河,http://play.ggiptv.com:13164/play.m3u8?token=xROdYXnpTkkSFFcGD7sgCOhr&tid=gt&id=17#http://154.209.74.42/hk/hkxg8.php?id=17
 有线电影,http://pull.scphsd.com/live/ab5599cd8fbb3de8e51aba47e512cf01/playlist.m3u8#http://play.ggiptv.com:13164/play.m3u8?token=eUum0oAp1scMCjVjSPlbVyBv&tid=gt&id=30
 港剧场,http://47.240.60.73/163cc.php?id=244746189
@@ -25,7 +25,7 @@ TVB无线新闻台,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
 无线J2台,https://app.kds.tw/live/tvb1.php?id=j2&u=123456#http://52ltw.xyz/wgat.php?id=12
 星河频道,http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=HIVAhJNAfFSVhIgCzHuKcHvKjRcATICUhKNHx5yNiIAalYBieKSKzCPgRJS%3Dy#https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
 粤语经典,http://aldirect.rtmp.huya.com/huyalive/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8
-粤语电影,http://jcloudcdnct.inter.iqiyi.com/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
+粤语电影,http://aliyuncdnct.inter.iqiyi.com/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
 粤语原声,http://tx2play1.douyucdn.cn/live/6566671r3jcXo8gN.flv
 粤语,http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8#http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
 粤语原生,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
@@ -73,7 +73,7 @@ TVB无线新闻台,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
 亮剑,http://aldirect.rtmp.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
 黄渤,http://aldirect.rtmp.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
 欢乐剧场,http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
-动作电影,http://jcloudcdnct.inter.ptqy.gitv.tv/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
+动作电影,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
 贺岁影片,http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
 经典港片,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c19_lb_jingdianguangpian_720p_t10/c19_lb_jingdianguangpian_720p_t10.m3u8
 票房收割机,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c19_lb_heibangdianying_720p_t10/c19_lb_heibangdianying_720p_t10.m3u8#http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
@@ -81,7 +81,7 @@ TVB无线新闻台,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
 午夜场,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuyechang_1080p_t10.m3u8
 动画电影,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
 秋意浓影,http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
-温情影院,http://jcloudcdnct.inter.ptqy.gitv.tv/tslive/c15_lb_chenglong_1080p_t10/c15_lb_chenglong_1080p_t10.m3u8
+温情影院,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c15_lb_chenglong_1080p_t10/c15_lb_chenglong_1080p_t10.m3u8
 速度与激情,http://aldirect.rtmp.huya.com/backsrc/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_2500.m3u8
 香港恐怖搞笑,http://aldirect.rtmp.huya.com/backsrc/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1_2500.m3u8
 迪士尼电影,http://aldirect.rtmp.huya.com/huyalive/1448731701-1448731701-6222255276473450496-2789274560-10057-A-0-1_2500.m3u8
