@@ -5,8 +5,8 @@ VlU,http://154.209.74.42/hk/hkxg8.php?id=8
 无线新闻,http://154.209.74.42/hk/hkxg8.php?id=9
 有线新闻Z,http://154.209.74.42/hk/hkxg8.php?id=31
 澳门新闻,http://202.175.127.77/live/show/ch2/index.m3u8
-武功台,http://154.209.74.42/hk/hkxg8.php?id=35
-星河,http://154.209.74.42/hk/hkxg8.php?id=17
+武功台,http://play.ggiptv.com:13164/play.m3u8?token=lSb5Nd0E24DTtHj0mpBDSeNA&tid=gt&id=35#http://154.209.74.42/hk/hkxg8.php?id=35
+星河,http://play.ggiptv.com:13164/play.m3u8?token=xROdYXnpTkkSFFcGD7sgCOhr&tid=gt&id=17#http://154.209.74.42/hk/hkxg8.php?id=17
 有线电影,http://play.ggiptv.com:13164/play.m3u8?token=Ikvw0Icoh8MMCjVjSPtSXCth&tid=gt&id=30
 港剧场,http://47.240.60.73/163cc.php?id=244746189
 澳门卫视,http://154.209.74.42/hk/hkxg8.php?id=23
