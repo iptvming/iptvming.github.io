@@ -31,6 +31,8 @@ TVB无线新闻台,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
 粤语原生,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
 周末粤语,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
 邵氏影院,http://tx2play1.douyucdn.cn/live/4246519rbNFUb1Pf.flv
+天映頻道,http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
+天映經典台,p2p://fccsovh.pvbox.live:18912/5b3c4f9b00031383627eef60721e1738#P2p://sdgdklwos.finetv.tv:9906/5b2e01c400098d0f0c42edad22c37385
 美亚电影,P2p://190.2.146.92:18912/5c724a0e000442831d58cdaa6a2c5c52.ts#mitv://198.255.74.87:9906/5dc08f100008811601b7ca2c2608b02d.tsp2p://lino.homeunix.com:6007/59fd08470008d4d60234d2d92e65644c.ts
 星卫电影台 HD,p2p://lino.homeunix.com:6007/59fd086a00072cbb02355b236c4a3fcb.ts
 东森电影 HD,p2p://lino.homeunix.com:6007/59fd0cab0008230a0245f94a229777bd.ts
@@ -39,7 +41,7 @@ TVB无线新闻台,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
 卫视合家欢 HD,p2p://lino.homeunix.com:6007/59fd14190000e1040262fd2560d91f69.ts
 纬来电影 HD,p2p://lino.homeunix.com:6007/59fd1feb0003d7be02912a31740004af.ts
 靖天电影台 HD,p2p://lino.homeunix.com:6007/59fd358c00069b9502e5a7d404d940d2.ts
-天映画 HD,p2p://lino.homeunix.com:6007/59fd3565000a788d02e5107642590dce.ts
+靖天映画 HD,p2p://lino.homeunix.com:6007/59fd3565000a788d02e5107642590dce.ts
 新力影业动作片,p2p://lino.homeunix.com:6007/59fd2573000c0b9e02a6c794631510c8.ts
 高清电影 HD,p2p://lino.homeunix.com:6007/59fd0b3f0002084d024069e339cc1997.ts
 好萊塢電影 HD,p2p://lino.homeunix.com:6007/5a141b66000b4be65f90135822b40e43.ts
