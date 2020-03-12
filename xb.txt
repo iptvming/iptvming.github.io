@@ -3,7 +3,7 @@ VlU,http://154.209.74.42/hk/hkxg8.php?id=8
 香港开电视,http://154.209.74.42/hk/hkxg8.php?id=7
 翡翠2,http://pull.scphsd.com/live/c582f74ef38df67aed1406c82d53f5f8/playlist.m3u8#http://154.209.74.42/hk/hkxg8.php?id=1
 无线新闻,http://154.209.74.42/hk/hkxg8.php?id=9
-有线新闻Z,http://154.209.74.42/hk/hkxg8.php?id=31
+有线新闻Z,pull.scphsd.com/live/087a58ed96db1a08ca696fd7e077b01d/playlist.m3u8#http://154.209.74.42/hk/hkxg8.php?id=31
 澳门新闻,http://202.175.127.77/live/show/ch2/index.m3u8
 武功台,http://pull.scphsd.com/live/11e006e621278b229febef45dbecac3c/playlist.m3u8#http://play.ggiptv.com:13164/play.m3u8?token=lSv5Y4sNh4HTtHj0mpJKQ%2BBD&tid=gt&id=35#http://154.209.74.42/hk/hkxg8.php?id=35
 星河,http://play.ggiptv.com:13164/play.m3u8?token=xROdYXnpTkkSFFcGD7sgCOhr&tid=gt&id=17#http://154.209.74.42/hk/hkxg8.php?id=17
